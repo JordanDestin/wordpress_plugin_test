@@ -1,0 +1,16 @@
+{
+    "name": "jojo/test",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "Jojo\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JordanDestin",
+            "email": "destin.jord@gmail.com"
+        }
+    ],
+    "require": {}
+}
